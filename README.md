@@ -15,10 +15,10 @@ Built using **React.js**, **Vite**, and styled with **Tailwind CSS**, this platf
 
 ## 📸 Preview
 
-| Home & Welcome Section | About & Professional Summary |
+| **Home & Welcome Section** | **Featured Projects Grid** |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/133cd1d5-1f0d-4dd2-8d0b-986bbe179b94" width="100%" alt="Portfolio Home Section"/> | <img src="https://github.com/user-attachments/assets/07ef5b32-cb63-4812-9ddc-a7d9165e6806" width="100%" alt="Portfolio About Section"/> |
-| **Featured Projects Grid** | **Experience & Contact Nodes** |
+| **Experience & Contact Nodes** | **Contact Me** |
 | <img src="https://github.com/user-attachments/assets/784acb85-2aa5-4797-acd2-2646814213e3" width="100%" alt="Portfolio Projects Section"/> | <img src="https://github.com/user-attachments/assets/df84f3bb-507a-4bf4-a717-7b3c8c710b4f" width="100%" alt="Portfolio Contact Section"/> |
 
 *(Note: You can easily update these image paths with your actual screenshot asset links once uploaded).*
